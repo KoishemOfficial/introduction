@@ -97,22 +97,16 @@ html, body {
     .typewriter {
         padding-left: 20%;
     }
-}
-
-@media (max-width: 500px) {
-    .typewriter {
-        padding-left: 15%;
-    }
-}
-
-@media (max-width: 800px) {
     .roles {
         padding-left: 20%;
     }
 }
 
 @media (max-width: 500px) {
+    .typewriter {
+        padding-left: 15%;
+    }
     .roles {
-        padding-left: 30%;
+        padding-left: 15%;
     }
 }
