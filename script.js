@@ -1,5 +1,5 @@
 // Typewriter code
-let texts = ["Software Engineer", "Web Developer", "Creator", "3D Designer", "Inexperienced Idiot", "Self-taught Programmer", "MCfunction Enthusiast"];
+let texts = ["Software Engineer", "Web Developer", "Not even a junior", "Lifelong Gamer", "Creator", "3D Designer", "Inexperienced", "Self-taught Programmer", "MCfunction Enthusiast", "Unemployed"];
 let textIndex = 0;
 let typingSpeed = 40;
 let eraseSpeed = 20;
