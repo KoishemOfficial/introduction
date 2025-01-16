@@ -32,6 +32,7 @@ html, body {
 .roles{
     font-size: clamp(5px, 3vw, 40px);
     font-style: bold;
+    letter-spacing: 3px;
     margin-left: auto;
     padding-top: 1%;
     white-space: pre;
