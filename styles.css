@@ -92,21 +92,3 @@ html, body {
         letter-spacing: 20px;
     }
 }
-
-@media (max-width: 800px) {
-    .typewriter {
-        padding-left: 20%;
-    }
-    .roles {
-        padding-left: 20%;
-    }
-}
-
-@media (max-width: 500px) {
-    .typewriter {
-        padding-left: 15%;
-    }
-    .roles {
-        padding-left: 15%;
-    }
-}
